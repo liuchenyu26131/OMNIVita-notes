@@ -1,679 +1,5 @@
 [
   {
-    "date": "2026-07-05",
-    "question": "牛骨髓牛棒骨中段属于脂肪吧？",
-    "answer": "黄老师：非常好",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "饮食结构与膳食模式"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-01",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "【群友见证】坚持晒太阳改善记忆力，肤色更健康",
-    "answer": "我坚持让老大白天光着身子晒太阳10分钟，没有晒黑，肤色看着就是很精神，健康。记忆力也有改善，之前学习记不住，现在好太多了。\n黄老师：是的，控制时间不容易黑的，是的，各项机能都会越来越好",
-    "type": "群友反馈",
-    "symptoms": [
-      "记忆力差"
-    ],
-    "supplements": [],
-    "topics_system": [
-      "神经睡眠与脑雾",
-      "物理干预与能量医学"
-    ],
-    "topic_group": "物理干预与光照",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-02",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "【群友见证】生酮后深睡时间提高，梦少了睡得沉",
-    "answer": "提高了深睡时间，梦也少了，睡的比以前沉。生酮可以治疗神经指数紊乱，调节昼夜规律、交感神经和副交感神经。生酮后睡前一颗甘氨酸镁，基本无梦。",
-    "type": "群友反馈",
-    "symptoms": [
-      "失眠",
-      "睡眠质量差"
-    ],
-    "supplements": [
-      "甘氨酸镁"
-    ],
-    "topics_system": [
-      "神经睡眠与脑雾",
-      "饮食结构与膳食模式"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-03",
-    "dosage_info": [
-      {
-        "supplement": "甘氨酸镁",
-        "dosage": "睡前一颗，改善睡眠",
-        "timing": "睡前"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "question": "干眼症怎么办？",
-    "answer": "黄老师：改变饮食+全面足量营养补充",
-    "type": "Q&A",
-    "symptoms": [
-      "眼干"
-    ],
-    "supplements": [],
-    "topics_system": [
-      "运动五官与结缔组织"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-04",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "【群友见证】多吃脂肪不喝咖啡，皮肤变饱满了",
-    "answer": "今天多吃了点脂肪，然后今天没有喝咖啡，我的皮肤又变饱满了。",
-    "type": "群友反馈",
-    "symptoms": [
-      "皮肤干"
-    ],
-    "supplements": [],
-    "topics_system": [
-      "运动五官与结缔组织",
-      "饮食结构与膳食模式"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-05",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "【群友见证】口腔溃疡用B2+VC+基础营养素一天愈合",
-    "answer": "昨天嘴里长了2个溃疡，1200mg的B2，VC10克多，基础营养素1包，今天创面就基本愈合了。",
-    "type": "群友反馈",
-    "symptoms": [
-      "口腔溃疡"
-    ],
-    "supplements": [
-      "维生素C",
-      "维生素B2",
-      "基础全营养素"
-    ],
-    "topics_system": [
-      "运动五官与结缔组织",
-      "氧化还原与抗氧化防御"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-06",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "【群友分享】血脂指标及黄老师点评",
-    "answer": "总胆固醇6.41，高密度1.15，低密度4.06，小而密低密度1.20，甘油三酯0.95\n黄老师评：多吃点动物脂肪、饱和脂肪，高密度太低",
-    "type": "群友反馈",
-    "symptoms": [
-      "血脂高"
-    ],
-    "supplements": [],
-    "topics_system": [
-      "血管血液与微循环",
-      "饮食结构与膳食模式"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-07",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "喝全营养素和VC后拉肚子，是VC还是献血的原因？",
-    "answer": "黄老师：先不吃vc看看",
-    "type": "Q&A",
-    "symptoms": [
-      "腹泻"
-    ],
-    "supplements": [
-      "维生素C",
-      "基础全营养素"
-    ],
-    "topics_system": [
-      "屏障消化与肠道"
-    ],
-    "topic_group": "补剂适应与腹泻",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-08",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "白癜风吃VC会不会更白？",
-    "answer": "黄老师：可以治疗白癜风。",
-    "type": "Q&A",
-    "symptoms": [
-      "白癜风"
-    ],
-    "supplements": [
-      "维生素C"
-    ],
-    "topics_system": [
-      "免疫自免与过敏",
-      "氧化还原与抗氧化防御"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-09",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "反流性食管炎烧心，盐水和盐酸甜菜碱还能继续吃吗？",
-    "answer": "黄老师：多加盐，盐酸甜菜碱继续吃。这几天犯病了的话可以断食1-2天。",
-    "type": "Q&A",
-    "symptoms": [
-      "反酸",
-      "烧心"
-    ],
-    "supplements": [
-      "海盐",
-      "盐酸甜菜碱"
-    ],
-    "topics_system": [
-      "屏障消化与肠道"
-    ],
-    "topic_group": "胃酸与消化",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-10",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "早上8点晒太阳30分钟还是黑了，怎么晒才合适？",
-    "answer": "黄老师：10-11点晒正反面各5分钟",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "物理干预与能量医学"
-    ],
-    "topic_group": "物理干预与光照",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-11",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "大剂量VC加吃肉会不会有指标问题？网上说是谣言可信吗？",
-    "answer": "群友：这玩意儿是不是谣言群里面不是还有很多人在执行这个吃法吗？你问他们呀。黄教主自己都在生酮纯肉加大剂量VC，你看他有没有问题。其实不用那么纠结，群里各种科普知识也很多，维生素C是干嘛的自己看看就行。可以自己去试试。",
-    "type": "横向互助",
-    "symptoms": [],
-    "supplements": [
-      "维生素C"
-    ],
-    "topics_system": [
-      "氧化还原与抗氧化防御",
-      "饮食结构与膳食模式"
-    ],
-    "topic_group": "补剂用法与搭配",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-12",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "无水甜菜碱吃完发热刺挠是过敏吗？",
-    "answer": "黄老师：过段时间就好了，建议烟酸和无水甜菜碱一起吃，分多次吃完，不然潮红会很厉害。",
-    "type": "Q&A",
-    "symptoms": [
-      "皮肤痒"
-    ],
-    "supplements": [
-      "无水甜菜碱",
-      "烟酸"
-    ],
-    "topics_system": [
-      "解毒肝肾与排毒"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-13",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "一口闷五六克盐后脸肿了怎么办？",
-    "answer": "黄老师：第一，盐不是这样吃的。盐是分散到一天当中逐步摄入的，不是一次性怼进去的。第二，一次性怼进去导致短期钠钾失衡，再加上平时可能钾没补够，就很容易肿。",
-    "type": "Q&A",
-    "symptoms": [
-      "水肿"
-    ],
-    "supplements": [
-      "海盐",
-      "钾"
-    ],
-    "topics_system": [
-      "血管血液与微循环"
-    ],
-    "topic_group": "盐与电解质",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-14",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "吃盐要多喝点水吗？会影响渗透压吗？",
-    "answer": "黄老师：并不需要太多水。\n追问：不会影响渗透压吗？\n黄老师：身体会调节渗透压，没有那么脆弱。吃够了盐和电解质，你是不容易口渴的。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "海盐"
-    ],
-    "topics_system": [
-      "血管血液与微循环"
-    ],
-    "topic_group": "盐与电解质",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-15",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "甘氨酸硼有推荐的吗？",
-    "answer": "黄老师：直接吃基础全营养素或微量元素粉或胶囊，里面都有。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "基础全营养素"
-    ],
-    "topics_system": [
-      "内分泌与激素调控"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-16",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "有单独卖甘氨酸硼吗？硼不够怎么办？",
-    "answer": "黄老师：没有，不需要单独吃，一起补最好。\n追问：按我的需求硼还不够！吃多了其他又超标\n黄老师：协同一起吃才不容易超标，单独多补硼反而容易出问题。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "基础全营养素"
-    ],
-    "topics_system": [
-      "内分泌与激素调控"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-17",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "熊胆粉可以吃吗？",
-    "answer": "黄老师：可以",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "解毒肝肾与排毒"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-18",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "棕榈油怎么样？",
-    "answer": "黄老师：跟椰子油类似，不过VE很高",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "饮食结构与膳食模式"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-19",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "8岁孩子的营养素用量是成人的一半吗？",
-    "answer": "黄老师：建议1/3~1/2",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "基础全营养素"
-    ],
-    "topics_system": [
-      "其他/综合"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-20",
-    "dosage_info": [
-      {
-        "supplement": "基础全营养素",
-        "dosage": "儿童：成人剂量的1/3~1/2",
-        "timing": "减量服用"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "question": "补剂不放冰箱会坏吗？哪些必须冷藏？",
-    "answer": "黄老师：可以放。不一定，三合一油、四合一油、九合一油肯定要放冰箱冷藏。单独的活性B族或DK最好也放冰箱冷藏。其他的密封好放阴凉处，问题不大。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "其他/综合"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-21",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "给家人推荐VC，只有泡腾粉会拉肚子吗？所有VC都会？",
-    "answer": "黄老师：所有VC吃多了都会拉肚子。推荐VC泡腾粉，好喝。可以泡水弄成冰棍，早上下午晚上各啃几口。\n回：我家人每天一条vc不拉肚子\n黄老师：那就可以继续。",
-    "type": "Q&A",
-    "symptoms": [
-      "腹泻"
-    ],
-    "supplements": [
-      "维C泡腾粉",
-      "维生素C"
-    ],
-    "topics_system": [
-      "屏障消化与肠道",
-      "氧化还原与抗氧化防御"
-    ],
-    "topic_group": "补剂适应与腹泻",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-22",
-    "dosage_info": [
-      {
-        "supplement": "维生素C",
-        "dosage": "从低剂量开始，以不腹泻为准逐步增加",
-        "timing": "分次服用"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "question": "补剂没放冰箱放柜子可以吧？",
-    "answer": "黄老师：密封好，放阴凉处，防潮做好就行。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "其他/综合"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-23",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "第一次吃全营养素和VC泡腾粉，两种可以一起吃吗？怎么吃？",
-    "answer": "黄老师：先吃基础全营养素，从半包慢慢加到两包不拉肚子，再加入VC泡腾粉从半包加到一包。长期保健剂量是一天两包基础全营养素或45粒胶囊加一包VC泡腾粉。过程中可加岩藻多糖帮助适应。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "基础全营养素",
-      "维C泡腾粉",
-      "岩藻多糖"
-    ],
-    "topics_system": [
-      "屏障消化与肠道"
-    ],
-    "topic_group": "补剂用法与搭配",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-24",
-    "dosage_info": [
-      {
-        "supplement": "维生素C",
-        "dosage": "从低剂量开始，以不腹泻为准逐步增加",
-        "timing": "分次服用"
-      },
-      {
-        "supplement": "基础全营养素",
-        "dosage": "从半包渐加到两包不拉肚子为止",
-        "timing": "从早到晚分次"
-      },
-      {
-        "supplement": "基础全营养素",
-        "dosage": "保健：一天45粒胶囊或两包粉",
-        "timing": "分次服用"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "question": "甜梦粉剂冲水喝什么味道？",
-    "answer": "小助理答：口感一般般，对味道要求高的不建议，如果能包糯米纸的话也可以。建议胶囊。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "神经睡眠与脑雾"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-25",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "B族和Q10一天吃几粒？",
-    "answer": "小助理答：活性B族保健剂量一天1克或两粒胶囊，分两次。Q10胶囊保健剂量一天0.2-0.4克或两粒胶囊，分两次，都随餐。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "活性B族",
-      "辅酶Q10"
-    ],
-    "topics_system": [
-      "能量线粒体与代谢"
-    ],
-    "topic_group": "补剂用法与搭配",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-26",
-    "dosage_info": [
-      {
-        "supplement": "活性B族",
-        "dosage": "保健一天1克或2粒胶囊",
-        "timing": "分两次随餐"
-      },
-      {
-        "supplement": "辅酶Q10",
-        "dosage": "保健一天0.2-0.4克或2粒胶囊",
-        "timing": "分两次随餐"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "question": "无水甜菜碱吃多少合适？怎么吃？",
-    "answer": "黄老师：一般3-5克。不用分批，全部倒在一起泡水喝，从早到晚慢慢喝就完了。\n追问：烟酸可以吃到1克吗？\n黄老师：可以，只要受得了潮红就行。\n追问：味道怪怪的喝不进去怎么办？\n黄老师：实在受不了就分批吃。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "无水甜菜碱",
-      "烟酸"
-    ],
-    "topics_system": [
-      "解毒肝肾与排毒"
-    ],
-    "topic_group": "补剂用法与搭配",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-27",
-    "dosage_info": [
-      {
-        "supplement": "烟酸",
-        "dosage": "可吃到1克/天，受得了潮红即可",
-        "timing": "分次随餐"
-      },
-      {
-        "supplement": "无水甜菜碱",
-        "dosage": "一般3-5克，全部倒在一起泡水从早到晚慢慢喝",
-        "timing": "全天分散"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "question": "烟酸不是胶囊怎么吃？直接冲水？",
-    "answer": "小助理答：包糯米纸或自己灌胶囊或包埋都可以，一天1克分两次随餐。\n追问：可以直接冲水喝吗？包埋是怎么搞的？\n小助理答：可以冲水喝，我最开始就是活性B族粉末加甘氨酸镁粉末泡水喝了几个月。\n包埋教程：[包埋链接](https://mp.weixin.qq.com/s/-yTmPAjM1Dun62hIyCR_mA)",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "烟酸"
-    ],
-    "topics_system": [
-      "其他/综合"
-    ],
-    "topic_group": "补剂用法与搭配",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-28",
-    "dosage_info": [
-      {
-        "supplement": "烟酸",
-        "dosage": "可冲水喝、包糯米纸、灌胶囊或包埋",
-        "timing": "一天1克分两次随餐"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "question": "鲍林粉和基础全营养素有什么区别？",
-    "answer": "小助理答：与基础全营养素的差异在于微量元素和B族。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "基础全营养素"
-    ],
-    "topics_system": [
-      "其他/综合"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-29",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "VC电解质泡水喝好还是包埋好？",
-    "answer": "小助理答：店里的这两个都可以不用包埋。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "维生素C"
-    ],
-    "topics_system": [
-      "氧化还原与抗氧化防御"
-    ],
-    "topic_group": "盐与电解质",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-30",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "有了基础全营养素还需要额外加无水甜菜碱吗？",
-    "answer": "小助理答：保健不需要额外加。\n黄老师：看你需求，如果有额外加了1克以上的烟酸，最好加上2倍的无水甜菜碱。",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [
-      "基础全营养素",
-      "无水甜菜碱",
-      "烟酸"
-    ],
-    "topics_system": [
-      "解毒肝肾与排毒"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-31",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "【黄老师分享】血管卫士——糖萼文章",
-    "answer": "[血管卫士——糖萼](https://mp.weixin.qq.com/s/pmhyGQs4-FlTJwRiYAd4Qg)",
-    "type": "Q&A",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "血管血液与微循环"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-32",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "【群友推荐】炖月牙骨的锅具分享",
-    "answer": "昨天刚炖了一斤月牙骨，90度24小时炖化。\n锅：[六松智能电饭锅](https://e.tb.cn/h.SRcqXB5YCnGnGAv)\n内胆：[不锈钢316内胆](https://e.tb.cn/h.SiTj4tx0qgnautm)",
-    "type": "群友反馈",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "饮食结构与膳食模式"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-33",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "【群友分享】关于梦的科普",
-    "answer": "我们每个人每天都要做梦，没有不做梦的。区别在于大脑记住了梦和没有记住。睡眠要经历好几个周期，做梦发生在其中某一个周期。如果你早上醒来刚好在这个周期就能记住做了梦，否则就以为没做梦。",
-    "type": "群友反馈",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "神经睡眠与脑雾"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-34",
-    "dosage_info": []
-  },
-  {
-    "date": "2026-07-05",
-    "question": "【群友分享】睡眠APP检测的提醒",
-    "answer": "睡眠APP仅供参考，不要太在意。这些APP在深睡浅睡上误判非常大，包括手环。有的功能还是可以，比如提醒心跳心率不对，经常提醒就可以去医院查一查。",
-    "type": "群友反馈",
-    "symptoms": [],
-    "supplements": [],
-    "topics_system": [
-      "神经睡眠与脑雾"
-    ],
-    "topic_group": "",
-    "source_file": "2026年07月05日_baoer.md",
-    "id": "2026-07-05-35",
-    "dosage_info": []
-  },
-  {
     "date": "2026-07-04",
     "question": "孩子视力下降，九合一油也一直在喝，是否需要补充其他的？",
     "answer": "黄老师：基础全营养素，VC泡腾粉，胶原蛋白肽，三丁酸甘油酯打底，加九合一油，R硫辛酸钠胶囊，NAC胶囊，甘氨酸，烟酸，无水甜菜碱，复合活性B族胶囊，B2胶囊。多晒太阳，多户外活动，眺望远处。改变饮食，最少低碳——生酮——纯肉。",
@@ -1295,6 +621,11 @@
     "topics_system": [
       "内分泌与激素调控"
     ],
+    "clinical_indicators": [
+      "血清钙",
+      "甲状旁腺素",
+      "25-羟基维生素D"
+    ],
     "topic_group": "维生素D",
     "source_file": "2026年07月04日_baoer.md",
     "id": "2026-07-04-34"
@@ -1368,6 +699,16 @@
       "血管血液与微循环",
       "免疫自免与过敏"
     ],
+    "clinical_indicators": [
+      "铁蛋白",
+      "转铁蛋白饱和度",
+      "转铁蛋白",
+      "总铁结合力",
+      "不饱和铁结合力",
+      "游离三碘甲状腺原氨酸",
+      "游离甲状腺素",
+      "促甲状腺激素"
+    ],
     "topic_group": "指标解读",
     "source_file": "2026年07月04日_baoer.md",
     "id": "2026-07-04-38"
@@ -1401,6 +742,13 @@
     "topics_system": [
       "饮食结构与膳食模式",
       "血管血液与微循环"
+    ],
+    "clinical_indicators": [
+      "血清总蛋白",
+      "总胆固醇",
+      "甘油三酯",
+      "高密度脂蛋白胆固醇",
+      "低密度脂蛋白胆固醇"
     ],
     "topic_group": "指标解读",
     "dosage_info": [
@@ -1577,5 +925,588 @@
     "topic_group": "",
     "source_file": "2026年07月04日_baoer.md",
     "id": "2026-07-04-50"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "牛骨髓牛棒骨中段属于脂肪吧？",
+    "answer": "黄老师：非常好",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "饮食结构与膳食模式"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-01"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "【群友见证】坚持晒太阳改善记忆力，肤色更健康",
+    "answer": "我坚持让老大白天光着身子晒太阳10分钟，没有晒黑，肤色看着就是很精神，健康。记忆力也有改善，之前学习记不住，现在好太多了。\n黄老师：是的，控制时间不容易黑的，是的，各项机能都会越来越好",
+    "type": "群友反馈",
+    "symptoms": [
+      "记忆力差"
+    ],
+    "supplements": [],
+    "topics_system": [
+      "神经睡眠与脑雾",
+      "物理干预与能量医学"
+    ],
+    "topic_group": "物理干预与光照",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-02"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "【群友见证】生酮后深睡时间提高，梦少了睡得沉",
+    "answer": "提高了深睡时间，梦也少了，睡的比以前沉。生酮可以治疗神经指数紊乱，调节昼夜规律、交感神经和副交感神经。生酮后睡前一颗甘氨酸镁，基本无梦。",
+    "type": "群友反馈",
+    "symptoms": [
+      "失眠",
+      "睡眠质量差"
+    ],
+    "supplements": [
+      "甘氨酸镁"
+    ],
+    "topics_system": [
+      "神经睡眠与脑雾",
+      "饮食结构与膳食模式"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-03"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "干眼症怎么办？",
+    "answer": "黄老师：改变饮食+全面足量营养补充",
+    "type": "Q&A",
+    "symptoms": [
+      "眼干"
+    ],
+    "supplements": [],
+    "topics_system": [
+      "运动五官与结缔组织"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-04"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "【群友见证】多吃脂肪不喝咖啡，皮肤变饱满了",
+    "answer": "今天多吃了点脂肪，然后今天没有喝咖啡，我的皮肤又变饱满了。",
+    "type": "群友反馈",
+    "symptoms": [
+      "皮肤干"
+    ],
+    "supplements": [],
+    "topics_system": [
+      "运动五官与结缔组织",
+      "饮食结构与膳食模式"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-05"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "【群友见证】口腔溃疡用B2+VC+基础营养素一天愈合",
+    "answer": "昨天嘴里长了2个溃疡，1200mg的B2，VC10克多，基础营养素1包，今天创面就基本愈合了。",
+    "type": "群友反馈",
+    "symptoms": [
+      "口腔溃疡"
+    ],
+    "supplements": [
+      "维生素C",
+      "维生素B2",
+      "基础全营养素"
+    ],
+    "topics_system": [
+      "运动五官与结缔组织",
+      "氧化还原与抗氧化防御"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-06"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "【群友分享】血脂指标及黄老师点评",
+    "answer": "总胆固醇6.41，高密度1.15，低密度4.06，小而密低密度1.20，甘油三酯0.95\n黄老师评：多吃点动物脂肪、饱和脂肪，高密度太低",
+    "type": "群友反馈",
+    "symptoms": [
+      "血脂高"
+    ],
+    "supplements": [],
+    "topics_system": [
+      "血管血液与微循环",
+      "饮食结构与膳食模式"
+    ],
+    "clinical_indicators": [
+      "总胆固醇",
+      "高密度脂蛋白胆固醇",
+      "低密度脂蛋白胆固醇",
+      "甘油三酯"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-07"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "喝全营养素和VC后拉肚子，是VC还是献血的原因？",
+    "answer": "黄老师：先不吃vc看看",
+    "type": "Q&A",
+    "symptoms": [
+      "腹泻"
+    ],
+    "supplements": [
+      "维生素C",
+      "基础全营养素"
+    ],
+    "topics_system": [
+      "屏障消化与肠道"
+    ],
+    "topic_group": "补剂适应与腹泻",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-08"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "白癜风吃VC会不会更白？",
+    "answer": "黄老师：可以治疗白癜风。",
+    "type": "Q&A",
+    "symptoms": [
+      "白癜风"
+    ],
+    "supplements": [
+      "维生素C"
+    ],
+    "topics_system": [
+      "免疫自免与过敏",
+      "氧化还原与抗氧化防御"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-09"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "反流性食管炎烧心，盐水和盐酸甜菜碱还能继续吃吗？",
+    "answer": "黄老师：多加盐，盐酸甜菜碱继续吃。这几天犯病了的话可以断食1-2天。",
+    "type": "Q&A",
+    "symptoms": [
+      "反酸",
+      "烧心"
+    ],
+    "supplements": [
+      "海盐",
+      "盐酸甜菜碱"
+    ],
+    "topics_system": [
+      "屏障消化与肠道"
+    ],
+    "topic_group": "胃酸与消化",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-10"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "早上8点晒太阳30分钟还是黑了，怎么晒才合适？",
+    "answer": "黄老师：10-11点晒正反面各5分钟",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "物理干预与能量医学"
+    ],
+    "topic_group": "物理干预与光照",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-11"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "大剂量VC加吃肉会不会有指标问题？网上说是谣言可信吗？",
+    "answer": "群友：这玩意儿是不是谣言群里面不是还有很多人在执行这个吃法吗？你问他们呀。黄教主自己都在生酮纯肉加大剂量VC，你看他有没有问题。其实不用那么纠结，群里各种科普知识也很多，维生素C是干嘛的自己看看就行。可以自己去试试。",
+    "type": "横向互助",
+    "symptoms": [],
+    "supplements": [
+      "维生素C"
+    ],
+    "topics_system": [
+      "氧化还原与抗氧化防御",
+      "饮食结构与膳食模式"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-12"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "无水甜菜碱吃完发热刺挠是过敏吗？",
+    "answer": "黄老师：过段时间就好了，建议烟酸和无水甜菜碱一起吃，分多次吃完，不然潮红会很厉害。",
+    "type": "Q&A",
+    "symptoms": [
+      "皮肤痒"
+    ],
+    "supplements": [
+      "无水甜菜碱",
+      "烟酸"
+    ],
+    "topics_system": [
+      "解毒肝肾与排毒"
+    ],
+    "topic_group": "补剂用法与搭配",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-13"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "一口闷五六克盐后脸肿了怎么办？",
+    "answer": "黄老师：第一，盐不是这样吃的。盐是分散到一天当中逐步摄入的，不是一次性怼进去的。第二，一次性怼进去导致短期钠钾失衡，再加上平时可能钾没补够，就很容易肿。",
+    "type": "Q&A",
+    "symptoms": [
+      "水肿"
+    ],
+    "supplements": [
+      "海盐",
+      "钾"
+    ],
+    "topics_system": [
+      "血管血液与微循环"
+    ],
+    "topic_group": "盐与电解质",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-14"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "吃盐要多喝点水吗？会影响渗透压吗？",
+    "answer": "黄老师：并不需要太多水。\n追问：不会影响渗透压吗？\n黄老师：身体会调节渗透压，没有那么脆弱。吃够了盐和电解质，你是不容易口渴的。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "海盐"
+    ],
+    "topics_system": [
+      "血管血液与微循环"
+    ],
+    "topic_group": "盐与电解质",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-15"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "甘氨酸硼有推荐的吗？",
+    "answer": "黄老师：直接吃基础全营养素或微量元素粉或胶囊，里面都有。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "基础全营养素"
+    ],
+    "topics_system": [
+      "内分泌与激素调控"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-16"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "有单独卖甘氨酸硼吗？硼不够怎么办？",
+    "answer": "黄老师：没有，不需要单独吃，一起补最好。\n追问：按我的需求硼还不够！吃多了其他又超标\n黄老师：协同一起吃才不容易超标，单独多补硼反而容易出问题。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "基础全营养素"
+    ],
+    "topics_system": [
+      "内分泌与激素调控"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-17"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "熊胆粉可以吃吗？",
+    "answer": "黄老师：可以",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "解毒肝肾与排毒"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-18"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "棕榈油怎么样？",
+    "answer": "黄老师：跟椰子油类似，不过VE很高",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "饮食结构与膳食模式"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-19"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "8岁孩子的营养素用量是成人的一半吗？",
+    "answer": "黄老师：建议1/3~1/2",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "基础全营养素"
+    ],
+    "topics_system": [
+      "其他/综合"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-20"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "补剂不放冰箱会坏吗？哪些必须冷藏？",
+    "answer": "黄老师：可以放。不一定，三合一油、四合一油、九合一油肯定要放冰箱冷藏。单独的活性B族或DK最好也放冰箱冷藏。其他的密封好放阴凉处，问题不大。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "其他/综合"
+    ],
+    "topic_group": "补剂用法与搭配",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-21"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "给家人推荐VC，只有泡腾粉会拉肚子吗？所有VC都会？",
+    "answer": "黄老师：所有VC吃多了都会拉肚子。推荐VC泡腾粉，好喝。可以泡水弄成冰棍，早上下午晚上各啃几口。\n回：我家人每天一条vc不拉肚子\n黄老师：那就可以继续。",
+    "type": "Q&A",
+    "symptoms": [
+      "腹泻"
+    ],
+    "supplements": [
+      "维C泡腾粉",
+      "维生素C"
+    ],
+    "topics_system": [
+      "屏障消化与肠道",
+      "氧化还原与抗氧化防御"
+    ],
+    "topic_group": "补剂适应与腹泻",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-22"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "补剂没放冰箱放柜子可以吧？",
+    "answer": "黄老师：密封好，放阴凉处，防潮做好就行。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "其他/综合"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-23"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "第一次吃全营养素和VC泡腾粉，两种可以一起吃吗？怎么吃？",
+    "answer": "黄老师：先吃基础全营养素，从半包慢慢加到两包不拉肚子，再加入VC泡腾粉从半包加到一包。长期保健剂量是一天两包基础全营养素或45粒胶囊加一包VC泡腾粉。过程中可加岩藻多糖帮助适应。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "基础全营养素",
+      "维C泡腾粉",
+      "岩藻多糖"
+    ],
+    "topics_system": [
+      "屏障消化与肠道"
+    ],
+    "topic_group": "补剂适应与腹泻",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-24"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "甜梦粉剂冲水喝什么味道？",
+    "answer": "小助理答：口感一般般，对味道要求高的不建议，如果能包糯米纸的话也可以。建议胶囊。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "神经睡眠与脑雾"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-25"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "B族和Q10一天吃几粒？",
+    "answer": "小助理答：活性B族保健剂量一天1克或两粒胶囊，分两次。Q10胶囊保健剂量一天0.2-0.4克或两粒胶囊，分两次，都随餐。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "活性B族",
+      "辅酶Q10"
+    ],
+    "topics_system": [
+      "能量线粒体与代谢"
+    ],
+    "topic_group": "补剂用法与搭配",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-26"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "无水甜菜碱吃多少合适？怎么吃？",
+    "answer": "黄老师：一般3-5克。不用分批，全部倒在一起泡水喝，从早到晚慢慢喝就完了。\n追问：烟酸可以吃到1克吗？\n黄老师：可以，只要受得了潮红就行。\n追问：味道怪怪的喝不进去怎么办？\n黄老师：实在受不了就分批吃。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "无水甜菜碱",
+      "烟酸"
+    ],
+    "topics_system": [
+      "解毒肝肾与排毒"
+    ],
+    "topic_group": "补剂用法与搭配",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-27"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "烟酸不是胶囊怎么吃？直接冲水？",
+    "answer": "小助理答：包糯米纸或自己灌胶囊或包埋都可以，一天1克分两次随餐。\n追问：可以直接冲水喝吗？包埋是怎么搞的？\n小助理答：可以冲水喝，我最开始就是活性B族粉末加甘氨酸镁粉末泡水喝了几个月。\n包埋教程：[包埋链接](https://mp.weixin.qq.com/s/-yTmPAjM1Dun62hIyCR_mA)",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "烟酸"
+    ],
+    "topics_system": [
+      "其他/综合"
+    ],
+    "topic_group": "补剂用法与搭配",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-28"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "鲍林粉和基础全营养素有什么区别？",
+    "answer": "小助理答：与基础全营养素的差异在于微量元素和B族。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "基础全营养素"
+    ],
+    "topics_system": [
+      "其他/综合"
+    ],
+    "topic_group": "补剂用法与搭配",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-29"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "VC电解质泡水喝好还是包埋好？",
+    "answer": "小助理答：店里的这两个都可以不用包埋。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "维生素C"
+    ],
+    "topics_system": [
+      "氧化还原与抗氧化防御"
+    ],
+    "topic_group": "补剂用法与搭配",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-30"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "有了基础全营养素还需要额外加无水甜菜碱吗？",
+    "answer": "小助理答：保健不需要额外加。\n黄老师：看你需求，如果有额外加了1克以上的烟酸，最好加上2倍的无水甜菜碱。",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [
+      "基础全营养素",
+      "无水甜菜碱",
+      "烟酸"
+    ],
+    "topics_system": [
+      "解毒肝肾与排毒"
+    ],
+    "topic_group": "补剂用法与搭配",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-31"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "【黄老师分享】血管卫士——糖萼文章",
+    "answer": "[血管卫士——糖萼](https://mp.weixin.qq.com/s/pmhyGQs4-FlTJwRiYAd4Qg)",
+    "type": "Q&A",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "血管血液与微循环"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-32"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "【群友推荐】炖月牙骨的锅具分享",
+    "answer": "昨天刚炖了一斤月牙骨，90度24小时炖化。\n锅：[六松智能电饭锅](https://e.tb.cn/h.SRcqXB5YCnGnGAv)\n内胆：[不锈钢316内胆](https://e.tb.cn/h.SiTj4tx0qgnautm)",
+    "type": "群友反馈",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "饮食结构与膳食模式"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-33"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "【群友分享】关于梦的科普",
+    "answer": "我们每个人每天都要做梦，没有不做梦的。区别在于大脑记住了梦和没有记住。睡眠要经历好几个周期，做梦发生在其中某一个周期。如果你早上醒来刚好在这个周期就能记住做了梦，否则就以为没做梦。",
+    "type": "群友反馈",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "神经睡眠与脑雾"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-34"
+  },
+  {
+    "date": "2026-07-05",
+    "question": "【群友分享】睡眠APP检测的提醒",
+    "answer": "睡眠APP仅供参考，不要太在意。这些APP在深睡浅睡上误判非常大，包括手环。有的功能还是可以，比如提醒心跳心率不对，经常提醒就可以去医院查一查。",
+    "type": "群友反馈",
+    "symptoms": [],
+    "supplements": [],
+    "topics_system": [
+      "神经睡眠与脑雾"
+    ],
+    "topic_group": "",
+    "source_file": "2026年07月05日_baoer.md",
+    "id": "2026-07-05-35"
   }
 ]
